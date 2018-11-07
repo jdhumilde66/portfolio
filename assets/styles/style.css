@@ -1,0 +1,40 @@
+body {
+	background-image: url("../images/bg.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Oswald', sans-serif;
+}
+h1{
+	background-color: rgba(255,255,255,0.5);
+	color: black;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+h2{
+	background-color: black;
+	color: white;
+	font-size: 18px;
+	margin-top: 0;
+}
+.bio{
+	background-color: rgba(255,255,255,0.2);
+	color: black;
+	font-size: 14px;
+}
+.me{
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+#container{
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
