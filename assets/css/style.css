@@ -128,11 +128,15 @@ h1 {
 	margin-top: 5vh;
 	height: 10vh;
 	background: rgba(0, 0, 0, 0.7)!important;
-	text-align: left;
-	line-height: 4;
+	position: relative;
+	top: 5vh;
+}
+
+.footer p {
+	line-height: 2.5;
+	color: white;
 }
 
 .animated {
 	animation-duration: 0.5s;
 }
-
